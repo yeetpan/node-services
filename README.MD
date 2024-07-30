@@ -1,11 +1,4 @@
 
-# 🚀 Hi, I'm Abhishek Karia! 👋
-I'm a full stack developer and Microservice enthusiast 
-
-
-# Microservices Patterns with Node.js
-
-This Project covers Database Per Service Pattern, Messaging Pattern for communication (RabbitMQ). Aggregator Patters for cross db join.
 
 
 ## Tech Stack
