@@ -18,7 +18,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/abhishekkaria/social-media-microservice
+  git clone https://github.com/yeetpan/node-services.git
 ```
 
 Go to the project directory
