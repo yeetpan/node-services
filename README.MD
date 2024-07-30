@@ -75,7 +75,3 @@ npm start
 
 For API Doc we used Thunder Client VSCode Plugin. every service has api doc filder which has API Doc file . which can be imported in VSCode.
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-karia-8b8370149/)
